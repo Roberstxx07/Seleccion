@@ -1,0 +1,30 @@
+Principal
+package aothor71315;
+
+import static aothor71315.author71315.author1234567890;
+
+
+public class Principal {
+    
+    public static void main(String[] args) {
+        author1234567890();
+}
+}
+
+Clase
+package aothor71315;
+public class    author71315 {
+
+    public static void author1234567890() {
+        String nombre = "Nombre del Estudiante";
+        String matricula = "1234567890";
+        String correo = "correo@example.com";
+
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Matrícula: " + matricula);
+        System.out.println("Correo electrónico: " + correo);
+    }
+
+    
+    }
+
